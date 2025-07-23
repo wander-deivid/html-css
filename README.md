@@ -1,20 +1,28 @@
-# Curso HTML5 & CSS3 – Módulo 1 🚀
+## 📚 Exercícios apresentados – Módulo 1 e 2 (Curso em Vídeo)
 
-Bem-vindo(a) ao repositório com os exercícios e desafios do **Módulo 1** do curso **HTML5 e CSS3**, ministrado pelo Prof. Gustavo Guanabara no Curso em Vídeo.
+### Módulo 1 – Fundamentos de HTML5 & CSS3
+
+- Criar o **primeiro documento HTML** com estrutura básica (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
+- Trabalhar com **parágrafos**, quebras de linha, símbolos e emojis
+- Inserir **imagens**, incluindo configuração de **favicon**
+- Utilizar **hierarquia de títulos** (`<h1>` a `<h6>`)
+- Aplicar **tags de formatação** (`<b>`, `<i>`, `<abbr>`, citações, código)
+- Montar **listas** (`<ul>`, `<ol>`, listas de definição)
+- Criar **links** (internos, externos, downloads, âncoras)
+- Embutir **imagens dinâmicas**, **áudio** e **vídeo** (internos e externos)
+- Aplicar **estilos CSS** em diferentes formas: inline, interno e externo  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
-## 📘 Sobre o Módulo 1
+### Módulo 2 – Design de página com CSS
 
-Neste módulo introdutório, é apresentado os fundamentos do desenvolvimento web, incluindo:
-
-1. Evolução da internet e papel do desenvolvedor web  
-2. Diferença entre front‑end e back‑end  
-3. Estrutura básica de uma página HTML5 semântica  
-4. Configuração do ambiente (editor de código e navegadores)  
-5. Conceitos de domínio e hospedagem  
-6. Introdução ao CSS3: aplicar estilos visuais básicos  
-
-Ao final, o aluno poderá estar habilitado a criar suas primeiras páginas web com HTML e aplicar estilos simples com CSS.
+- Trabalho com **cores** (vários exercícios)
+- Uso e configuração de **fontes** (várias fontes CSS)
+- Alinhamento de texto e elementos
+- Aplicação de **seletores CSS**, incluindo uso de **IDs**, **classes**, **pseudo‑classes** (`:hover`, `:active`) e **pseudo-elementos**
+- Estilização de **modelo de caixas**: espaçamento, bordas, padding, box sizing
+- Criação de **bordas** decorativas  
+:contentReference[oaicite:2]{index=2}
 
 ---

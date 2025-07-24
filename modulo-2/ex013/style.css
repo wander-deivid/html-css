@@ -1,0 +1,7 @@
+*{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom,#253A7A ,#3D257C 33%,#19646F 40%);/* ao invés de usar o "to bottom", pode tambem se usar o 45deg, -45deg. O gradient pode ser radial-gradient*/
+    background-attachment: fixed;
+}

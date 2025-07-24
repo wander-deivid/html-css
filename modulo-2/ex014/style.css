@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%; Aqui é configurado as configurações globais do documento html*/
+}
+
+body{
+    background-image: linear-gradient(to right,#142864,#5C6FA6);
+    background-attachment: fixed;
+}
+main{
+    background-color: white;
+    border-radius: 12px;/* borda do main*/
+    box-shadow: 5px 5px 15px #01384085;/* O primeiro parâmetro esta relacionado a distância lateral, a segunda a distância a baixo e o terceiro e o espalhamento*/
+    width: 600px;
+    padding: 12px; /* O padding esta relacionado a distância do conteúdo do limite da margem do width, como ele é de 600px, o conteúdo ocupa 576px*/
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: #071747;
+}
+h2{
+    color: #0A505A;
+}
+p{
+    text-align: justify;
+}

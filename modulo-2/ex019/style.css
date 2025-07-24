@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Morris Roman;
+    src: url(fonts/MorrisRomanBlack.otf) format('opentype'), url(fonts/MorrisRomanBlack.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: "Morris Roman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+
+h1, h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-indent: 40px;
+}
+

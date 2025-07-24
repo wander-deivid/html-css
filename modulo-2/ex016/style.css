@@ -1,0 +1,19 @@
+
+/* 
+Medidas Absolutas:
+cm, mm, in, px, pt, pc
+Medidas Relativas: 
+em (altura eme), ex (Altura x, altura do x da fonte), rem (é parecida com o em mas tem uma outro tamanho de eme), vw (que é relacionado a largura da tela em %, viewport width), vh (altura do monitor, viewport height).
+
+O W3 recomenda as medidas px e em.
+1em é relativo a 16px no monitor
+*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-decoration: underline;
+    /* as declarações de fonte acima podem ser simplificadas com: 
+    font: 
+    em que segue a seguinte ordem:
+    - font-style -> font-weight -> font-size -> font-family*/
+}

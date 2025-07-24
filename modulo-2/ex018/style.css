@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Morris Roman;
+    src: url(fonts/MorrisRomanBlack.otf) format('opentype'), url(fonts/MorrisRomanBlack.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* 
+Tipos de Format:
+- opentype (otf)
+- truetype (ttf)
+- embedded-opentype
+- truetype-aat (Apple Advanced Typography)
+- svg
+importado do https://www.dafont.com/pt/morris-roman.font*/
+body{
+    font-family: "Morris Roman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+/* plugin para identificar fontes em sites no google chrome é o fonts ninja
+*/

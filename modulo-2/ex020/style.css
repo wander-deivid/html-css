@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Morris Roman;
+    src: url(fonts/MorrisRomanBlack.otf) format('opentype'), url(fonts/MorrisRomanBlack.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* 
+em HTML é id = em CSS é # (pode apenas 1 elemento)
+em HTML é class = em CSS é . (pode apenas mais de 1 elemento)
+*/
+
+body{
+    font-family: "Morris Roman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    background-color: aqua;
+}
+
+h1, h2{
+    text-align: left;
+}
+h1#principal {
+    text-align: center;
+    background-color: beige;
+    color: blueviolet;
+}
+p{
+    text-align: justify;
+    text-indent: 40px;
+}
+.basico{
+    color: green;
+}
+.intermediario{
+    color: yellow;
+}
+.avancado{
+    color: red;
+}
+
+.destaque{
+    background-color: rgba(95, 95, 8, 0.507);
+}
+

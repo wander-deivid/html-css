@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/*
+    Seletores personalizados
+
+    # = id
+    . = class
+    : = pseudo-class
+    :: = pseudo-element
+    > children
+*/
+
+body{
+    width: 400px;
+}
+
+a{
+    color: rgb(130, 100, 158);
+    text-decoration: none; /* Para o texto não ficar sublinhado*/
+    font-weight: bold;
+}
+a:visited{
+    color: brown;
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+a:active{
+    color: yellowgreen;
+}
+.especial{
+    background-color: antiquewhite;
+}
+
+.especial::after{
+    content: "←";
+    color: brown;
+}
+
+.especial::before{
+    content: "→";
+    color: brown;
+}

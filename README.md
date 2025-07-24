@@ -10,8 +10,7 @@
 - Montar **listas** (`<ul>`, `<ol>`, listas de definição)
 - Criar **links** (internos, externos, downloads, âncoras)
 - Embutir **imagens dinâmicas**, **áudio** e **vídeo** (internos e externos)
-- Aplicar **estilos CSS** em diferentes formas: inline, interno e externo  
-:contentReference[oaicite:1]{index=1}
+- Aplicar **estilos CSS** em diferentes formas: inline, interno e externo
 
 ---
 
@@ -23,6 +22,5 @@
 - Aplicação de **seletores CSS**, incluindo uso de **IDs**, **classes**, **pseudo‑classes** (`:hover`, `:active`) e **pseudo-elementos**
 - Estilização de **modelo de caixas**: espaçamento, bordas, padding, box sizing
 - Criação de **bordas** decorativas  
-:contentReference[oaicite:2]{index=2}
 
 ---
